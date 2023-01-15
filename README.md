@@ -1,2 +1,2 @@
 # 22S_NaverShopping
-Hi this is 
+This repository contains the preprocess code I participated in the Naver Shopping project jointly conducted by SNU Graduate school of Data Science and UX lab during the summer of 2022. I joined the project as an undergraduate intern through the SNU AI Institue summer internship program(https://aiis.snu.ac.kr/bbs/board.php?bo_table=sub5_1&wr_id=334), where I contributed to the data preprocessing task and the session clustering task based on the GED(Graph Edit Distance) estimation with GNN(Graph Neural Network) approach. 
